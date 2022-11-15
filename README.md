@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center"> Welcome to my account! 😄</h1>
 
-<!--
-**Guipeee/Guipeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="left">
+📖 Studying</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">
+  ↳💻</h2>
+  <p>
+    ↳ Java | JavaScript | REACT | Node.js | CSS </p>
+
+<h2 align="left">
+  ↳🎓</h2>
+  <p align="left">
+    ↳ ⚙️ Studying Mechanical Engeeniring</p>
+
+<h3>🌎 I'm from Brazil!</h3>
+<h3>🆔 Guipeee</h3>
