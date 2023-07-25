@@ -12,7 +12,7 @@
 <h2 align="left">
   ↳🎓</h2>
   <p align="left">
-    ↳ ⚙️ Mechanical Engeeniring</p>
+    ↳ 🖥️ Data Science</p>
 
 <h3>🌎 I'm from Brazil!</h3>
 <h3>🆔 Guipeee</h3>
