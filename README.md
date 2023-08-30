@@ -5,14 +5,15 @@
 📖 Studying</h1>
 
 <h2 align="left">
-  ↳💻</h2>
-  <p>
-    ↳ Java | JavaScript | REACT | Node.js | CSS </p>
-
-<h2 align="left">
   ↳🎓</h2>
   <p align="left">
-    ↳ 🖥️ Data Science</p>
+    ↳ 🖥️ Data Science - UNIVESP</p>
+
+<h2 align="left">
+  ↳💻</h2>
+  <p>
+    ↳ Java | SQL | JavaScript | CSS </p>
+
 
 <h3>🌎 I'm from Brazil!</h3>
 <h3>🆔 Guipeee</h3>
